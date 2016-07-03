@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/yu/lettuce" name="neobuddy89/android_device_yu_lettuce" remote="github" revision="cm-13.0" />
+  <project path="device/yu/tomato" name="DroidThug/device_yu_tomoto" remote="github" revision="cm-13.0" />
   <project path="vendor/yu" name="TheMuppets/proprietary_vendor_yu" remote="github" revision="cm-13.0" />
-  <project path="kernel/cyanogen/msm8916" name="neobuddy89/android_kernel_cyanogen_msm8916" remote="github" revision="cm-13.0" />
+  <project path="kernel/cyanogen/msm8916" name="darshan1205/kernel_cyanogen_msm8916_64" remote="github" revision="cm-13.0" />
   <project path="device/cyanogen/msm8916-common" name="CyanogenMod/android_device_cyanogen_msm8916-common" remote="github" revision="cm-13.0" />
 </manifest>
