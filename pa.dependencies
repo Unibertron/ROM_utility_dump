@@ -1,0 +1,32 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "DroidThug/device_yu_lettuce-pa",
+        "target_path":  "device/yu/lettuce",
+        "revision":     "mm-caf"
+    },
+    {
+        "remote":"github",
+        "repository":" AOSParadox/android_kernel_cyanogen_msm8916",
+        "target_path":"kernel/cyanogen/msm8916",
+        "revision":"yu-par-6.0-amss-1.0.2"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "marshmallow-caf-8916"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "marshmallow-caf-8916"
+    },
+    {
+        "remote":"github",
+        "repository":"AOSParadox/proprietary_vendor_yu",
+        "target_path":"vendor/yu",
+        "revision":"yu-par-6.0"
+    }
+]
